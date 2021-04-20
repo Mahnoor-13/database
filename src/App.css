@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: row;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  width: 30%;
+  height: 30%;
+}
+.remove{
+  color: red;
+  cursor: pointer;
+  margin-left: 20%;
+}
+.ul{
+  display: flex;
+}
